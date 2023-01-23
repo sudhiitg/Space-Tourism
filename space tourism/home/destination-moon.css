@@ -1,0 +1,101 @@
+body{
+    background-image: url(background-destination-desktop.jpg );
+color: white;
+
+
+
+}
+.mars-photo{
+   position: relative;
+   left: 15%;
+   top: 200px;
+}
+h1{
+    font-size:small ;
+    position: relative;
+    display: inline-table;
+    left: 80%;
+   padding-top: 50px;
+}
+h3{
+   
+    font-size:small ;
+    position: relative;
+    display: inline-table;
+    left: 60%;
+    bottom: 400px;
+    
+}
+h2{
+width: 400px;
+position: relative;
+bottom: 400px;
+left: 20%;
+
+}
+p{
+    width: 400px;
+    position: relative;
+    left: 60%;
+    bottom: 500px;
+}
+h4{
+    width: 400px;
+    font-size: 100px;
+    position: relative;
+    left: 60%;
+    bottom: 400px;
+}
+h5{
+    width: 200px;
+    position: relative;
+    left: 50%;
+    bottom:400px ;
+}
+h7{
+    width: 200px;
+    position: relative;
+    left: 70%;
+    bottom:675px ;
+
+}
+h6{
+    width: 400px;
+    position: relative;
+    left: 50%;
+    bottom:450px ;
+    font-size :40px;
+
+}
+h8{
+    width: 200px;
+    position: relative;
+    left: 60%;
+    bottom:590px ;
+    font-size :40px;
+}
+.inform{
+    position: relative;
+    left:130px ;
+}
+
+.myButton {
+	background-color:#171a18;
+	border-radius:15px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #010800;
+}
+.myButton:hover {
+	background-color:#727570;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}

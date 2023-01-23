@@ -1,0 +1,90 @@
+body{
+ background-image: url("background-home-desktop.jpg");
+ color: white;
+ background-attachment: fixed;
+}
+h1{
+    font-size:small ;
+    position: relative;
+    display: inline-table;
+    left: 80%;
+   padding-top: 50px;
+}
+
+h2{
+  font-size: medium;
+ width: 400px;
+ position: relative;
+top: 100px;
+font-family: 'Libre Franklin', sans-serif;
+word-spacing: .5em;
+}
+h3{
+font-size: 100px;
+font-family: 'Noto Serif', serif;
+font-weight: 30;
+width: 400px;
+
+}
+h4{
+    font-size: smaller;
+    width: 400px;
+   height: 5px;
+   position: relative;
+   bottom: 60px;
+   font-family: 'Libre Franklin', sans-serif;
+   font-weight: 1;
+   word-spacing: 0.5em;
+
+ 
+}
+.heading{
+    margin-left: 15%;
+   padding-top: 200px;
+    
+ 
+}
+.white{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border-radius: 50%;
+   
+    position: relative;
+    left: 70%;
+    bottom: 200px;
+}
+.h{ color: black;
+    width: 200px;
+    position: relative;
+  
+    top: 110px;
+    left: 23%;
+
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+
+.myButton {
+	background-color:#171a18;
+	border-radius:15px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #010800;
+}
+.myButton:hover {
+	background-color:#727570;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+

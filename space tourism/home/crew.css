@@ -1,0 +1,79 @@
+body{
+    background-image: url(background-crew-desktop.jpg );
+color: white;
+
+
+
+}
+.pilot-photo{
+   position: absolute;
+  left : 50%;
+   top: 200px;
+}
+h1{
+    font-size:small ;
+    position: relative;
+    display: inline-table;
+    left: 80%;
+   padding-top: 50px;
+}
+h3{
+   
+    font: size 30px; ;
+    position: relative;
+    font-weight: lighter;
+    
+    left: 20%;
+    padding-top: 50px;
+    
+    
+}
+h2{
+width: 400px;
+position: relative;
+font-weight: 100;
+
+left: 20%;
+
+}
+p{
+    width: 500px;
+    position: relative;
+    left: 20%;
+   
+}
+h4{
+    width: 800px;
+    font-size: 40px;
+    font-weight: 300;
+    position: relative;
+    left: 20%;
+   
+}
+.info{
+    position: relative;
+    top: 200px;
+    right:10%;
+}
+.myButton {
+	background-color:#171a18;
+	border-radius:15px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #010800;
+}
+.myButton:hover {
+	background-color:#727570;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
